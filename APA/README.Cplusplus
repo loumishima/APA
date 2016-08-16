@@ -1,0 +1,9 @@
+Trabalho realizado na linguagem C++ 
+
+IDE utilizado CodeBlocks 16.01
+
+Após algumas pesquisas notei que o Code Blocks não emite um Makefile, mas sim um arquivo .cbp
+    cbp =  extensão de projeto do code blocks
+    
+Quaisquer duvidas enviar e-mail para Luiz.Henrique@eng.ci.ufpb.br
+
