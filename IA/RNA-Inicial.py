@@ -70,10 +70,6 @@ class Perceptron:
         
         amostra.insert(0, -1)
 
-        '''
-            utiliza-se o vetor de pesos ajustado
-            durante o treinamento da rede
-        '''
         u = 0
         for i in range(self.num_amostra + 1):
             u += self.pesos[i] * amostra[i]
