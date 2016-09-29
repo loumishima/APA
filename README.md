@@ -1,2 +1,0 @@
-# IA
-Artificial Inteligence activities
