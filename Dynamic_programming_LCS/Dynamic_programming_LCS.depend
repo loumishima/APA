@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1475154508 source:c:\users\luizh\documents\github\dynamic_programming_lcs\main.cpp
+	<iostream>
+	<string>
+	<vector>
+
